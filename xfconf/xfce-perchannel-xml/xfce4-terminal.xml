@@ -1,0 +1,26 @@
+<?xml version="1.1" encoding="UTF-8"?>
+
+<channel name="xfce4-terminal" version="1.0">
+  <property name="background-mode" type="string" value="TERMINAL_BACKGROUND_TRANSPARENT"/>
+  <property name="background-darkness" type="double" value="0.59999999999999998"/>
+  <property name="font-use-system" type="bool" value="false"/>
+  <property name="font-name" type="string" value="Monospace 13"/>
+  <property name="color-use-theme" type="bool" value="false"/>
+  <property name="color-background-vary" type="bool" value="false"/>
+  <property name="color-cursor-use-default" type="bool" value="true"/>
+  <property name="scrolling-bar" type="string" value="TERMINAL_SCROLLBAR_NONE"/>
+  <property name="overlay-scrolling" type="bool" value="false"/>
+  <property name="misc-cursor-shape" type="string" value="TERMINAL_CURSOR_SHAPE_IBEAM"/>
+  <property name="misc-cursor-blinks" type="bool" value="true"/>
+  <property name="title-mode" type="string" value="TERMINAL_TITLE_REPLACE"/>
+  <property name="scrolling-on-output" type="bool" value="false"/>
+  <property name="kinetic-scrolling" type="bool" value="false"/>
+  <property name="run-custom-command" type="bool" value="false"/>
+  <property name="custom-command" type="string" value="xfce4-terminal --hide-menubar"/>
+  <property name="misc-new-tab-adjacent" type="bool" value="true"/>
+  <property name="misc-menubar-default" type="bool" value="false"/>
+  <property name="misc-default-geometry" type="string" value="86x32"/>
+  <property name="font-allow-bold" type="bool" value="true"/>
+  <property name="misc-toolbar-default" type="bool" value="false"/>
+  <property name="misc-show-relaunch-dialog" type="bool" value="false"/>
+</channel>
